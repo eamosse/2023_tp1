@@ -13,3 +13,6 @@
 - Ecrire une fonction qui ordonne un tableau de nombre, passé en paramètre, par ordre croissant ou décroissant
 
 - Ecrire une fonction qui détermine si une chaîne de caractère passée en paramètre est un email, un numéro de téléphone ou une URL. Utiliser les fonctions d'extensions.
+  
+- Etant donné une liste de nombres entiers, écrire une fonction qui renvoie une sous-liste contenant, les nombres pairs, impairs ou négatifs.
+
